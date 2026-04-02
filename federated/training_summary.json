@@ -1,0 +1,39 @@
+{
+  "baseline": {
+    "clinic_1": {
+      "accuracy": 0.4118,
+      "macro_f1": 0.4149
+    },
+    "clinic_2": {
+      "accuracy": 0.4235,
+      "macro_f1": 0.4283
+    },
+    "clinic_3": {
+      "accuracy": 0.5059,
+      "macro_f1": 0.5021
+    }
+  },
+  "federated": {
+    "clinic_1": {
+      "accuracy": 0.5529,
+      "macro_f1": 0.5601
+    },
+    "clinic_2": {
+      "accuracy": 0.4824,
+      "macro_f1": 0.4743
+    },
+    "clinic_3": {
+      "accuracy": 0.5059,
+      "macro_f1": 0.5021
+    }
+  },
+  "ensemble": {
+    "average_accuracy": 0.5137,
+    "meta_learner_accuracy": 0.5294
+  },
+  "improvement": {
+    "clinic_1": 0.1411,
+    "clinic_2": 0.0589,
+    "clinic_3": 0.0
+  }
+}

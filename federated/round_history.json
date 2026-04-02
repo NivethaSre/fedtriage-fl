@@ -1,0 +1,56 @@
+[
+  {
+    "round": 1,
+    "timestamp": "2026-03-30T14:44:27.194918",
+    "clinic_metrics": {
+      "clinic_1": {
+        "accuracy": 0.5529,
+        "macro_f1": 0.5601
+      },
+      "clinic_2": {
+        "accuracy": 0.4824,
+        "macro_f1": 0.4743
+      },
+      "clinic_3": {
+        "accuracy": 0.5059,
+        "macro_f1": 0.5021
+      }
+    }
+  },
+  {
+    "round": 2,
+    "timestamp": "2026-03-30T14:44:29.006357",
+    "clinic_metrics": {
+      "clinic_1": {
+        "accuracy": 0.5529,
+        "macro_f1": 0.5601
+      },
+      "clinic_2": {
+        "accuracy": 0.4824,
+        "macro_f1": 0.4743
+      },
+      "clinic_3": {
+        "accuracy": 0.5059,
+        "macro_f1": 0.5021
+      }
+    }
+  },
+  {
+    "round": 3,
+    "timestamp": "2026-03-30T14:44:30.779507",
+    "clinic_metrics": {
+      "clinic_1": {
+        "accuracy": 0.5529,
+        "macro_f1": 0.5601
+      },
+      "clinic_2": {
+        "accuracy": 0.4824,
+        "macro_f1": 0.4743
+      },
+      "clinic_3": {
+        "accuracy": 0.5059,
+        "macro_f1": 0.5021
+      }
+    }
+  }
+]
